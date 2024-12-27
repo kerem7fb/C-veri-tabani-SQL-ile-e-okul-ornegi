@@ -1,0 +1,18 @@
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Eokul\Eokul\bin\Debug\Eokul.exe.config
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Eokul\Eokul\bin\Debug\Eokul.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Eokul\Eokul\bin\Debug\Eokul.pdb
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Eokul\Eokul\obj\Debug\Eokul.csprojResolveAssemblyReference.cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Eokul\Eokul\obj\Debug\Eokul.Form1.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Eokul\Eokul\obj\Debug\Eokul.Properties.Resources.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Eokul\Eokul\obj\Debug\Eokul.csproj.GenerateResource.Cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Eokul\Eokul\obj\Debug\Eokul.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Eokul\Eokul\obj\Debug\Eokul.pdb
+C:\Users\user\Desktop\10-M\Eokul\Eokul\Eokul\bin\Debug\Eokul.exe.config
+C:\Users\user\Desktop\10-M\Eokul\Eokul\Eokul\obj\Debug\Eokul.exe
+C:\Users\user\Desktop\10-M\Eokul\Eokul\Eokul\obj\Debug\Eokul.pdb
+C:\Users\user\Desktop\10-M\Eokul\Eokul\Eokul\bin\Debug\Eokul.exe
+C:\Users\user\Desktop\10-M\Eokul\Eokul\Eokul\bin\Debug\Eokul.pdb
+C:\Users\user\Desktop\10-M\Eokul\Eokul\Eokul\obj\Debug\Eokul.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Eokul\Eokul\Eokul\obj\Debug\Eokul.Form1.resources
+C:\Users\user\Desktop\10-M\Eokul\Eokul\Eokul\obj\Debug\Eokul.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Eokul\Eokul\Eokul\obj\Debug\Eokul.csproj.GenerateResource.Cache
